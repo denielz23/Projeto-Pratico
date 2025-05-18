@@ -1,2 +1,2 @@
-# Projeto-Pr-tico-em-Sistemas
+# Projeto-Pratico-em-Sistemas
 Projeto Prático em Sistemas - Uninove
